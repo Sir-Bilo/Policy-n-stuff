@@ -100,9 +100,3 @@ These Terms are governed by the laws of [Your Jurisdiction].
 
 ## 10. Contact
 For questions or clarifications, please contact the app owner directly.
-
-    <h3>9. Governing Law</h3>
-    <p>These Terms are governed by the laws of [Your Jurisdiction].</p>
-
-    <h3>10. Contact</h3>
-    <p>For questions or clarifications, please contact the app owner directly.</p>
