@@ -1,8 +1,4 @@
-# Policy-n-stuff
-like privacy policy and tos for OAuth things
-
-
-   # Privacy Policy
+   # Privacy Policy / ToS
 
 **Effective Date:** [Insert Date]
 
