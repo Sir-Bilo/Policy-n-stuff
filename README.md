@@ -1,42 +1,7 @@
 # Policy-n-stuff
 like privacy policy and tos for OAuth things
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy and Terms of Service</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #2C3E50;
-        }
-        h2 {
-            color: #34495E;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        .section-title {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1>Privacy Policy</h1>
     <h2>Privacy Policy</h2>
@@ -134,6 +99,3 @@ like privacy policy and tos for OAuth things
 
     <h3>10. Contact</h3>
     <p>For questions or clarifications, please contact the app owner directly.</p>
-
-</body>
-</html>
