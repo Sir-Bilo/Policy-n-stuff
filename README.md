@@ -1,7 +1,5 @@
    # Privacy Policy / ToS
 
-**Effective Date:** [Insert Date]
-
 ## 1. Introduction
 This Privacy Policy describes how this app ("we," "our," or "us") collects, uses, and protects information during your use of this app. This app is privately owned and operated, and all collected data is handled exclusively by its owner. The app is provided for personal testing purposes only.
 
